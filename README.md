@@ -1,1 +1,1 @@
-This is an assignment from [The Odin Project] (https://www.theodinproject.com/).
+This is an assignment from https://www.theodinproject.com.
