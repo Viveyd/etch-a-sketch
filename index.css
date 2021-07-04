@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: peachpuff;
+}
+
+main{
+    grid-area: grid-box;
+    border: 3px solid black;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(red, green, blue)
+}
+#menu{
+    grid-area: menu;
+}
+.grid-cells{
+    flex-grow: 1;
+}
+.grid-lined{
+    border: 1px solid black;
+}
+.grid-rows{
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+}
